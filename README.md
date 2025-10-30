@@ -1,7 +1,6 @@
-
 # 👋 Olá! Eu sou o Gleydson Luidy  
 
-🎯 **Desenvolvedor Backend | Python & Django**  
+🎯 **Desenvolvedor Backend | Python, Django e C++**  
 💾 Apaixonado por programção  
 🚀 Criando soluções escaláveis e bem estruturadas com foco em qualidade e performance  
 
@@ -13,6 +12,7 @@
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -45,6 +45,7 @@
 
 - 🧩 Arquitetura de sistemas com **Django REST Framework**  
 - 🔗 Integração de **APIs externas**  
+- 🧮 **Algoritmos e estruturas de dados em C++** 
 - 🗄️ Boas práticas de **modelagem de banco de dados**  
 - ☁️ Deploy com **Docker** e **Nginx**
 
@@ -61,5 +62,5 @@
 </p>
 
 <p align="center">
-  ⭐ _“Código limpo é aquele que você se orgulha de mostrar.”
+  “Código limpo é aquele que você se orgulha de mostrar.”
 </p>
