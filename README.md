@@ -37,9 +37,9 @@
 
 <div align="center">
 
-![Estatísticas](https://github-readme-stats.vercel.app/api?username=gleydsonluidy&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gleydsonluidy&layout=compact&theme=tokyonight&hide_border=true)
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=gleydsonluidy&theme=tokyonight&hide_border=true)
+![Estatísticas](https://github-readme-stats.vercel.app/api?username=gleydson-silv&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gleydson-silv&layout=compact&theme=tokyonight&hide_border=true)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=gleydson-silv&theme=tokyonight&hide_border=true)
 
 </div>
 
