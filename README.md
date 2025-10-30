@@ -1,4 +1,4 @@
-# 👋 Olá! Eu sou o Gleydson Luidy  
+# 👋 Olá! Eu sou Gleydson Luidy  
 
 🎯 **Desenvolvedor Backend | Python, Django e C++**  
 💾 Apaixonado por programção  
