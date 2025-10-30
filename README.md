@@ -1,7 +1,3 @@
-<!-- Banner -->
-<p align="center">
-  <img src="https://i.imgur.com/1Ej8d1N.png" alt="Banner - Gleydson Luidy" width="100%">
-</p>
 
 # 👋 Olá! Eu sou o Gleydson Luidy  
 
@@ -56,9 +52,7 @@
 
 ## 💬 Contato
 
-📧 **gleydson@example.com**  
-🌐 [**LinkedIn**](https://www.linkedin.com/in/gleydsonluidy)  
-💻 [**Portfólio**](https://gleydsonluidy.dev) *(em construção)*  
+📧 **gleydsonluidy2@gmail.com**  
 
 ---
 
