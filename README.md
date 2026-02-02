@@ -34,11 +34,7 @@
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gleydson-silv&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=gleydson-silv&layout=compact&theme=tokyonight)
-
+  
 ![GitHub Streak](https://streak-stats.demolab.com?user=gleydson-silv&theme=tokyonight&hide_border=true)
 
 </div>
