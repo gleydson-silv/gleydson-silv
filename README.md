@@ -2,8 +2,8 @@
 
 🎯 **Desenvolvedor Backend | Python, Django, Java e C++**<br> 
 🎓 Cursando Análise e Desenvolvimento de Sistemas – IFRN <br>
-💾 Apaixonado por programação e arquitetura de software<br>  
-🚀 Criando soluções escaláveis, bem estruturadas e com foco em qualidade e performance<br>  
+💾 Apaixonado por programação e arquitetura de software  
+🚀 Criando soluções escaláveis, bem estruturadas e com foco em qualidade e performance  
 
 ---
 
