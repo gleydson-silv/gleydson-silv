@@ -1,7 +1,7 @@
 # 👋 Olá! Eu sou Gleydson Luidy  
 
-🎓 Cursando Análise e Desenvolvimento de Sistemas – IFRN<br>
-🎯 **Desenvolvedor Backend | Python, Django, Java e C++**  
+🎯 **Desenvolvedor Backend | Python, Django, Java e C++**<br> 
+🎓 Cursando Análise e Desenvolvimento de Sistemas – IFRN 
 💾 Apaixonado por programação e arquitetura de software  
 🚀 Criando soluções escaláveis, bem estruturadas e com foco em qualidade e performance  
 
