@@ -26,10 +26,9 @@
 ---
 
 ## 📦 Projetos em Destaque
-
-- 💰 [**CryptoTracker**](https://github.com/gleydson-silv/cotacao_moedas.git) — Rastreador de cotações de moedas e criptomoedas  
+ 
 - ⚙️ [**E-commerce Backend**](https://github.com/gleydson-silv/jwt_authentication.git) — API REST com autenticação JWT    
-
+- 💰 [**Locadora de Veiculos**](https://github.com/gleydson-silv/project_poo.git) — Sistema de locadora de Veiculos com Java
 ---
 
 ## 📊 Estatísticas do GitHub
