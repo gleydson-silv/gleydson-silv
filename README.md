@@ -1,13 +1,10 @@
 <div align="center">
 
-```
- ██████╗ ██╗     ███████╗██╗   ██╗██████╗ ███████╗ ██████╗ ███╗   ██╗
-██╔════╝ ██║     ██╔════╝╚██╗ ██╔╝██╔══██╗██╔════╝██╔═══██╗████╗  ██║
-██║  ███╗██║     █████╗   ╚████╔╝ ██║  ██║███████╗██║   ██║██╔██╗ ██║
-██║   ██║██║     ██╔══╝    ╚██╔╝  ██║  ██║╚════██║██║   ██║██║╚██╗██║
-╚██████╔╝███████╗███████╗   ██║   ██████╔╝███████║╚██████╔╝██║ ╚████║
- ╚═════╝ ╚══════╝╚══════╝   ╚═╝   ╚═════╝ ╚══════╝ ╚═════╝ ╚═╝  ╚═══╝
-```
+# 👋 Olá! Eu sou Gleydson Luidy 
+
+💾 Apaixonado por programação e arquitetura de software  
+🚀 Criando soluções escaláveis, bem estruturadas e com foco em qualidade e performance  
+
 
 ### `Backend Developer` · `Python` · `Java` · `C++`
 
