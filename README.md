@@ -123,6 +123,6 @@ class GleydsonLuidy:
 
 <img src="https://komarev.com/ghpvc/?username=gleydson-silv&color=00d4ff&style=flat-square&label=Visitas+ao+perfil" />
 
-*"To the talentless, more than obsession"
+"To the talentless, more than obsession."
 
 </div>
