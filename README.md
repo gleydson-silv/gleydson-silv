@@ -123,6 +123,6 @@ class GleydsonLuidy:
 
 <img src="https://komarev.com/ghpvc/?username=gleydson-silv&color=00d4ff&style=flat-square&label=Visitas+ao+perfil" />
 
-*"Código limpo não é escrito seguindo um conjunto de regras. Você não se torna um artesão de software aprendendo uma lista de heurísticas. Profissionalismo e artesanato vêm de valores que impulsionam disciplinas."* — **Robert C. Martin**
+*"To the talentless, more than obsession**
 
 </div>
