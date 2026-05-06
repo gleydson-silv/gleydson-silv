@@ -74,7 +74,7 @@ class GleydsonLuidy:
 | Projeto | Descrição | Tecnologias |
 |--------|-----------|-------------|
 | [🔐 JWT Authentication API](https://github.com/gleydson-silv/jwt_authentication.git) | API REST com autenticação JWT segura para e-commerce | `Python` `Django` `JWT` |
-| [Marketplace - Flow CRM](https://github.com/gleydson-silv/trilha_backend_nadic.git) | API REST com autenticação JWT e integração com login social | `Python` `DjangoRest` `Allauth` `JWT` |
+| [📦 Marketplace - Flow CRM](https://github.com/gleydson-silv/trilha_backend_nadic.git) | API REST com autenticação JWT e integração com login social | `Python` `DjangoRest` `Allauth` `JWT` |
 
 </div>
 
