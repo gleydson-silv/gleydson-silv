@@ -74,7 +74,7 @@ class GleydsonLuidy:
 | Projeto | Descrição | Tecnologias |
 |--------|-----------|-------------|
 | [🔐 JWT Authentication API](https://github.com/gleydson-silv/jwt_authentication.git) | API REST com autenticação JWT segura para e-commerce | `Python` `Django` `JWT` |
-| [🚗 Locadora de Veículos](https://github.com/gleydson-silv/project_poo.git) | Sistema completo de locação com princípios de POO | `Java` `OOP` |
+| [Marketplace - Flow CRM](https://github.com/gleydson-silv/trilha_backend_nadic.git) | API REST com autenticação JWT e integração com login social | `Python` `DjangoRest` | `Allauth` | `JWT` |
 
 </div>
 
